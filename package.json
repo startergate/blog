@@ -46,9 +46,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/startergate/about-me"
+    "url": "https://github.com/startergate/blog"
   },
   "bugs": {
-    "url": "https://github.com/startergate/about-me/issues"
+    "url": "https://github.com/startergate/blog/issues"
   }
 }
