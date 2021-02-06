@@ -1,0 +1,26 @@
+.title {
+    align-items: center;
+    display: flex;
+}
+
+.title-name {
+    font-weight: 600;
+    font-family: 'JetBrains Mono', 'SF Pro Display', sans-serif;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+}
+
+.section-main:not(:last-child) {
+    margin-bottom: 24px;
+}
+
+section.subpage {
+     margin-top: 48px;
+     width: 100%;
+ }
